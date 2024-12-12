@@ -107,6 +107,15 @@ The Random Forest Classifier achieved the best accuracy of **73.14%**, making it
 Contributions are welcome! Please fork the repository and create a pull request.
 
 ---
+## Output
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/3e5a8e28-bd23-4f9c-b386-b80ebb7e6895" />
+
+<img width="812" alt="image" src="https://github.com/user-attachments/assets/d3250a7d-c672-48c9-9492-669121abe0ea" />
+
+
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/f29dc9f6-0e61-4a6a-adcb-95999275fcb7" />
+
+
 
 ## License
 -------
@@ -120,6 +129,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.
 - Thanks to the open-source community for their tools and support.
+
 
    
 
